@@ -1,0 +1,20 @@
+# Build directories
+build/
+bin/
+lib/
+cmake-build-*/
+out/
+
+# IDE / Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+compile_commands.json
+.cache/
+
+# Core dumps and logs
+core
+core.*
+*.log
+*.dSYM/
